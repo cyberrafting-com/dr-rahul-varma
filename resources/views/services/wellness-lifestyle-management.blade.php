@@ -1,4 +1,4 @@
-@php($title = 'Wellness and Lifestyle Management | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Wellness and Lifestyle Management in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma provides personalized guidance for wellness and lifestyle management in Navi Mumbai. Nutrition, exercise, stress management, and prevention.
 @endsection

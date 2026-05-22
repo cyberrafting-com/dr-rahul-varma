@@ -1,6 +1,6 @@
-@php($title = 'Testimonials | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Testimonials for Dr. Rahul B Varma, Physician & Diabetologist - Navi Mumbai')
 @section('meta_desc')
-Patient reviews and testimonials for Dr. Rahul B. Varma - Consultant Physician, Intensivist & Diabetologist. Bharti Multispeciality Hospital, Ulwe, Navi Mumbai.
+Patient reviews and testimonials for Dr. Rahul B. Varma - Consultant Physician, Intensivist & Diabetologist at Bharti Multispeciality Hospital, Ulwe, Navi Mumbai.
 @endsection
 
 

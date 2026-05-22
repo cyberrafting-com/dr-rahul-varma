@@ -1,4 +1,4 @@
-@php($title = 'Diabetes Care | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Diabetes Care & treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma offers personalized, evidence-based care for diabetes in Navi Mumbai. Blood sugar control, complication prevention, and individualized treatment plans.
 @endsection

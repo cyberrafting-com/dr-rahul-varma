@@ -1,4 +1,4 @@
-@php($title = 'Preventive Health Care | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Preventive Health Care treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma offers evidence-based preventive care in Navi Mumbai. Early detection, risk assessment, screenings, and lifestyle interventions.
 @endsection

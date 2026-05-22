@@ -1,4 +1,4 @@
-@php($title = 'Stroke & Paralysis Management | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Stroke & Paralysis Management in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma offers advanced treatment and rehabilitation for stroke and paralysis patients in Navi Mumbai. Acute care, recovery support, and long-term management to improve quality of life.
 @endsection

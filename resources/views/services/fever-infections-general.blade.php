@@ -1,4 +1,4 @@
-@php($title = 'Fever, Infections & General Medicine | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Fever & Infections treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma offers expert diagnosis and treatment for fevers, infections, and general medical conditions in Navi Mumbai. Evidence-based care for common illnesses and chronic disease management.
 @endsection

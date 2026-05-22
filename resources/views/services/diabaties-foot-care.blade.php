@@ -1,4 +1,4 @@
-@php($title = 'Diabetic Foot Care | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Diabetic Foot Care treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma offers evidence-based care for diabetic foot conditions in Navi Mumbai. Prevention, early diagnosis, and effective treatment of foot ulcers, infections, and complications.
 @endsection

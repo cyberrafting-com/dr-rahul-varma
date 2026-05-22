@@ -1,7 +1,6 @@
 @php($title = 'Dr. Rahul B Varma | Physician & Diabetologist in Navi Mumbai')
 @section('meta_desc')
-Consult Dr. Rahul B Varma, MBBS, FCPS, Fellowship in Critical Care & Diabetes. Expert physician, diabetologist &
-intensivist in Navi Mumbai.
+Consult Dr. Rahul B Varma, an expert physician, diabetologist, and critical care intensivist in Navi Mumbai. Get specialized care for diabetes, critical illnesses, and overall health management.
 @endsection
 
 
@@ -136,7 +135,7 @@ intensivist in Navi Mumbai.
                 <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
                     <div class="aboutus_image">
                         <figure class="mb-0"><img src="{{ asset('resources/assets/images/dr-rahul-varma.png') }}"
-                                alt="Dr. Rahul B Varma" class="img-fluid"></figure>
+                                alt="Dr. Rahul B Varma, Physician, Intensivist and Diabetologist in Ulwe Navi Mumbai" class="img-fluid"></figure>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12" data-aos="fade-right">
@@ -172,7 +171,7 @@ intensivist in Navi Mumbai.
                     <a href="{{ route('diabetes') }}" class="services_card_link text-decoration-none">
                         <div class="services_box_content services_card">
                             <div class="services_box_upper_portion">
-                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/diabaties-care-s.png') }}" alt="Diabetes" class="img-fluid"></figure>
+                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/diabaties-care-s.png') }}" alt="Diabetes management by Dr. Rahul B Varma Physician, Intensivist, and Diabetologist in Ulwe, Navi Mumbai " class="img-fluid"></figure>
                             </div>
                             <div class="services_box_lower_portion" data-title="Diabetes">
                                 <h3>Diabetes </h3>
@@ -186,7 +185,7 @@ intensivist in Navi Mumbai.
                     <a href="{{ route('thyroid') }}" class="services_card_link text-decoration-none">
                         <div class="services_box_content services_card">
                             <div class="services_box_upper_portion">
-                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/thyroid.png') }}" alt="Thyroid Treatment" class="img-fluid"></figure>
+                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/thyroid.png') }}" alt="Thyroid Treatment by Dr. Rahul B Varma Physician, Intensivist, and Diabetologist in Ulwe, Navi Mumbai" class="img-fluid"></figure>
                             </div>
                             <div class="services_box_lower_portion" data-title="Thyroid Treatment">
                                 <h3>Thyroid </h3>
@@ -200,7 +199,7 @@ intensivist in Navi Mumbai.
                     <a href="{{ route('blood.pressure') }}" class="services_card_link text-decoration-none">
                         <div class="services_box_content services_card">
                             <div class="services_box_upper_portion">
-                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/hypertension.png') }}" alt="Hypertension" class="img-fluid"></figure>
+                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/hypertension.png') }}" alt="Hypertension treatment by Dr. Rahul B Varma Physician, Intensivist, and Diabetologist in Ulwe, Navi Mumbai" class="img-fluid"></figure>
                             </div>
                             <div class="services_box_lower_portion" data-title="Hypertension">
                                 <h3> Hypertension </h3>
@@ -214,7 +213,7 @@ intensivist in Navi Mumbai.
                     <a href="{{ route('cardiac.disorder') }}" class="services_card_link text-decoration-none">
                         <div class="services_box_content services_card">
                             <div class="services_box_upper_portion">
-                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/heart-disease.png') }}" alt="Cardiac Disorder" class="img-fluid"></figure>
+                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/heart-disease.png') }}" alt="Cardiac Disorder management by Dr. Rahul B Varma Physician, Intensivist, and Diabetologist in Ulwe, Navi Mumbai" class="img-fluid"></figure>
                             </div>
                             <div class="services_box_lower_portion" data-title="Cardiac Disorder">
                                 <h3> Cardiac Disorder </h3>
@@ -230,7 +229,7 @@ intensivist in Navi Mumbai.
                     <a href="{{ route('fever.infections') }}" class="services_card_link text-decoration-none">
                         <div class="services_box_content services_card">
                             <div class="services_box_upper_portion">
-                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/fever.png') }}" alt="Fever & Infection" class="img-fluid"></figure>
+                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/fever.png') }}" alt="Fever & Infection tretament by Dr. Rahul B Varma Physician, Intensivist, and Diabetologist in Ulwe, Navi Mumbai" class="img-fluid"></figure>
                             </div>
                             <div class="services_box_lower_portion" data-title="Fever & Infection">
                                 <h3>Fever & Infection </h3>
@@ -244,7 +243,7 @@ intensivist in Navi Mumbai.
                     <a href="{{ route('lung.disorder') }}" class="services_card_link text-decoration-none">
                         <div class="services_box_content services_card">
                             <div class="services_box_upper_portion">
-                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/lung-dis.png') }}" alt="Lung disorder" class="img-fluid"></figure>
+                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/lung-dis.png') }}" alt="Lung disorder treatment by Dr. Rahul B Varma Physician, Intensivist, and Diabetologist in Ulwe, Navi Mumbai" class="img-fluid"></figure>
                             </div>
                             <div class="services_box_lower_portion" data-title="Lung disorder">
                                 <h3> Lung disorder </h3>
@@ -258,7 +257,7 @@ intensivist in Navi Mumbai.
                     <a href="{{ route('kidney.disease') }}" class="services_card_link text-decoration-none">
                         <div class="services_box_content services_card">
                             <div class="services_box_upper_portion">
-                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/kidney-care.png') }}" alt="kidney diseases" class="img-fluid"></figure>
+                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/kidney-care.png') }}" alt="kidney diseases treatment by Dr. Rahul B Varma Physician, Intensivist, and Diabetologist in Ulwe, Navi Mumbai" class="img-fluid"></figure>
                             </div>
                             <div class="services_box_lower_portion" data-title="kidney diseases">
                                 <h3> kidney diseases </h3>
@@ -272,7 +271,7 @@ intensivist in Navi Mumbai.
                     <a href="{{ route('stroke') }}" class="services_card_link text-decoration-none">
                         <div class="services_box_content services_card">
                             <div class="services_box_upper_portion">
-                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/stroke.png') }}" alt="Stroke" class="img-fluid"></figure>
+                                <figure class="mb-0"><img src="{{ asset('resources/assets/images/stroke.png') }}" alt="Stroke treatment by Dr. Rahul B Varma Physician, Intensivist, and Diabetologist in Ulwe, Navi Mumbai" class="img-fluid"></figure>
                             </div>
                             <div class="services_box_lower_portion" data-title="Stroke">
                                 <h3> Stroke </h3>
@@ -324,7 +323,7 @@ intensivist in Navi Mumbai.
                             <p class="specialties_paragraph">Sudden weakness needs immediate care</p>
                         </div>
                         <figure class="specialties_left_line mb-0">
-                            <img src="{{ asset('resources/assets/images/specialties_left_line.png') }}" alt=""
+                            <img src="{{ asset('resources/assets/images/specialties_left_line.png') }}" alt="Medical attention"
                                 class="img-fluid">
                         </figure>
                     </div>
@@ -410,7 +409,7 @@ intensivist in Navi Mumbai.
                     <div class="col-lg-5 d-none d-lg-block">
                         <div class="why_choose_media_wrap">
                             <figure class="why_choose_media mb-0">
-                                <img src="{{ asset('resources/assets/images/get_in_touch_image.png') }}" alt="Dr. Rahul Varma - Care" class="img-fluid">
+                                <img src="{{ asset('resources/assets/images/get_in_touch_image.png') }}" alt="Why Patients Choose Dr. Rahul Varma" class="img-fluid">
                             </figure>
 
                         </div>
@@ -514,7 +513,7 @@ intensivist in Navi Mumbai.
                 <div class="row align-items-stretch">
                     <div class="col-lg-6 col-md-12">
                         <figure class="home_testimonial_media mb-0">
-                            <img src="{{ asset('resources/assets/images/testimonial.png') }}" alt="Diabetes consultation and blood glucose check" class="img-fluid">
+                            <img src="{{ asset('resources/assets/images/testimonial.png') }}" alt="Testimonials for Dr. Rahul B Varma, Physician & Diabetologist in Navi Mumbai " class="img-fluid">
                         </figure>
                     </div>
 

@@ -1,6 +1,6 @@
-@php($title = 'Contact Us | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Contact Dr. Rahul B Varma | Physician & Diabetologist Navi Mumbai')
 @section('meta_desc')
-Contact Dr. Rahul B. Varma - Consultant Physician, Intensivist & Diabetologist. Bharti Multispeciality Hospital, Ulwe, Navi Mumbai. Phone, email and location.
+Contact Dr. Rahul B. Varma - Consultant Physician, Intensivist & Diabetologist. Bharti Multispeciality Hospital, Ulwe, Navi Mumbai.
 @endsection
 
 

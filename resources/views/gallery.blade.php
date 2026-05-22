@@ -1,4 +1,4 @@
-@php($title = 'Gallery | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Gallery - Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
 @section('meta_desc')
 Gallery of Dr. Rahul B. Varma - Consultant Physician, Intensivist & Diabetologist. Bharti Multispeciality Hospital, Ulwe, Navi Mumbai.
 @endsection

@@ -1,4 +1,4 @@
-@php($title = 'Critical Care Services | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Critical Care Services in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma offers ICU and critical care for seriously ill patients in Navi Mumbai. Advanced monitoring, life support, and multidisciplinary management for sepsis, respiratory failure, and life-threatening conditions.
 @endsection

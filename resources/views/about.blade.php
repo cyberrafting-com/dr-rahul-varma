@@ -1,6 +1,6 @@
 @php($title = 'About Dr. Rahul B. Varma | Physician, Intensivist & Diabetologist - Navi Mumbai')
 @section('meta_desc')
-Dr. Rahul B. Varma - Consultant Physician, Intensivist & Diabetologist. Owner of Bharti Multispeciality Hospital, Ulwe. MBBS, FCPS, Fellowship in Critical Care & Diabetes.
+Dr. Rahul B Varma – Expert physician, diabetologist & critical care intensivist in Navi Mumbai. Specialized care for diabetes & critical illnesses.
 @endsection
 
 
@@ -48,7 +48,7 @@ Dr. Rahul B. Varma - Consultant Physician, Intensivist & Diabetologist. Owner of
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="aboutus_image">
-                    <figure class="mb-0"><img src="{{ asset('resources/assets/images/dr-rahul-varma-abt.png') }}" alt="Dr. Rahul B Varma" class="img-fluid"></figure>
+                    <figure class="mb-0"><img src="{{ asset('resources/assets/images/dr-rahul-varma-abt.png') }}" alt="Dr. Rahul B Varma, an Expert physician, diabetologist & critical care intensivist in Navi Mumbai." class="img-fluid"></figure>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" data-aos="fade-right">

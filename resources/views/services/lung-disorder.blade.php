@@ -1,6 +1,6 @@
-@php($title = 'Lung Disorder | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Lung Disorder treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
-Dr. Rahul B. Varma offers comprehensive care for lung disorders in Navi Mumbai. Improve breathing, manage symptoms, and prevent complications.
+Dr. Rahul B. Varma offers comprehensive care & treatment for lung disorders in Navi Mumbai. Improve breathing, manage symptoms, and prevent complications.
 @endsection
 
 @extends('layouts.default')

@@ -1,6 +1,6 @@
-@php($title = 'Cardiac Disorder | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Cardiac Disorder treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
-Dr. Rahul B. Varma offers evidence-based care for cardiac disorders in Navi Mumbai. Heart health evaluation, medication management, and complication prevention.
+Dr. Rahul B. Varma offers evidence-based care for cardiac disorders treatment in Navi Mumbai. Heart health evaluation, medication management, and complication prevention.
 @endsection
 
 @extends('layouts.default')

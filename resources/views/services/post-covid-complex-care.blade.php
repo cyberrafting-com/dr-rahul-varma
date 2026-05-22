@@ -1,4 +1,4 @@
-@php($title = 'Post-COVID & Complex Care | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Post-COVID & Complex Care in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma offers dedicated care for post-COVID recovery and complex multi-system conditions in Navi Mumbai. Long COVID symptoms, fatigue, respiratory and cardiac follow-up, and coordinated care.
 @endsection

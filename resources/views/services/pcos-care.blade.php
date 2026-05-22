@@ -1,6 +1,6 @@
-@php($title = 'PCOS Care | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'PCOS Care & treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
-Dr. Rahul B. Varma offers comprehensive, evidence-based care for PCOS in Navi Mumbai. Hormone regulation, weight management, and fertility support.
+Dr. Rahul B. Varma offers comprehensive, evidence-based care & treatment for PCOS in Navi Mumbai. Hormone regulation, weight management, and fertility support.
 @endsection
 
 @extends('layouts.default')

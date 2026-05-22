@@ -1,6 +1,6 @@
-@php($title = 'Asthma & COPD Care | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Asthma & COPD Care in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
-Dr. Rahul B. Varma offers expert management of asthma and COPD in Navi Mumbai. Inhaler optimization, exacerbation prevention, and pulmonary rehabilitation for better breathing and quality of life.
+Dr. Rahul B. Varma,Physician & Diabetologist offers expert management of asthma and COPD in Navi Mumbai. Inhaler optimization, exacerbation prevention, and pulmonary rehabilitation for better breathing and quality of life.
 @endsection
 
 @extends('layouts.default')

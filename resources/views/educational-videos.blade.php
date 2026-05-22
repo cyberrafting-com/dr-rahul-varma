@@ -1,4 +1,4 @@
-@php($title = 'Educational Videos | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Educational Videos by Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
 @section('meta_desc')
 Watch educational health videos by Dr. Rahul B. Varma - Consultant Physician, Intensivist & Diabetologist. Bharti Multispeciality Hospital, Ulwe, Navi Mumbai.
 @endsection

@@ -1,4 +1,4 @@
-@php($title = 'Blood Pressure Care | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Blood Pressure management in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
 Dr. Rahul B. Varma offers evidence-based care for blood pressure management in Navi Mumbai. Optimal blood pressure control and reduction of heart and kidney complications.
 @endsection

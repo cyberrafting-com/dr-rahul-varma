@@ -1,6 +1,6 @@
-@php($title = 'Thyroid Treatment | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Thyroid treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
-Dr. Rahul B. Varma offers personalized, evidence-based care for thyroid disorders in Navi Mumbai. Hormone balance, fatigue management, and individualized treatment plans.
+Dr. Rahul B. Varma offers personalized, evidence-based care & treatment for thyroid disorders in Navi Mumbai. Hormone balance, fatigue management, and individualized treatment plans.
 @endsection
 
 @extends('layouts.default')

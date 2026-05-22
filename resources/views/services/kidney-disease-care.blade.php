@@ -1,6 +1,6 @@
-@php($title = 'Kidney Disease Care | Dr. Rahul B Varma | Physician & Diabetologist - Navi Mumbai')
+@php($title = 'Kidney Disease treatment in Navi Mumbai by Dr. Rahul B Varma, Physician & Diabetologist')
 @section('meta_desc')
-Dr. Rahul B. Varma offers comprehensive care for kidney conditions in Navi Mumbai. Chronic kidney disease (CKD), acute kidney injury, monitoring, medication, and lifestyle guidance to preserve kidney function.
+Dr. Rahul B. Varma offers comprehensive care & treatment for kidney conditions in Navi Mumbai. Chronic kidney disease (CKD), acute kidney injury, monitoring, medication, and lifestyle guidance to preserve kidney function.
 @endsection
 
 @extends('layouts.default')
